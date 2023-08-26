@@ -1,2 +1,2 @@
-# acronym-extractor
-An acronym extractor written in Rust
+# abbreviation-extractor
+An abbreviation extractor written in Rust
