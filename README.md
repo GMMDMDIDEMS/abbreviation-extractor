@@ -1,7 +1,7 @@
 # abbreviation-extractor
 The abbreviation-extractor is a tool designed to identify and extract abbreviations from PDF documents.
-This Rust implementation is inspired by the Schwartz-Hearst algorithm[^1]: and is intended to be useful 
-for researchers, academics and people dealing with academic PDF content.
+This Rust implementation is inspired by the Schwartz-Hearst[^1] algorithm and is intended to be useful 
+for researchers, scholars and people dealing with academic PDF content.
 
 
 ## References
